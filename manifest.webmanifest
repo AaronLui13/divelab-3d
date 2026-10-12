@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "DiveLab 3D — 水肺潛水浮力訓練",
+  "short_name": "DiveLab",
+  "description": "第一身 3D 珊瑚礁訓練：以觸控調節 BCD，學習浮力、水壓與氣體膨脹。",
+  "lang": "zh-Hant-HK",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#071e26",
+  "theme_color": "#071e26",
+  "categories": ["education", "games", "simulation"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
