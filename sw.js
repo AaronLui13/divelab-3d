@@ -1,6 +1,6 @@
 /* The Vite build plugin replaces these markers with a content hash and every local asset. */
-const BUILD_ID = 'e1a007ca249f4c96';
-const PRECACHE_FILES = ["assets/index-CgrNG1yf.css","assets/index-JeeYa7al.js","favicon.svg","icons/apple-touch-icon.png","icons/icon-192.png","icons/icon-512.png","icons/icon-maskable-512.png","icons/icon.svg","index.html","manifest.webmanifest"];
+const BUILD_ID = 'cda58cb4a1afc1a1';
+const PRECACHE_FILES = ["assets/index-BM2sleak.js","assets/index-Z00kS05Y.css","favicon.svg","icons/apple-touch-icon.png","icons/icon-192.png","icons/icon-512.png","icons/icon-maskable-512.png","icons/icon.svg","index.html","manifest.webmanifest"];
 const BASE_URL = self.registration.scope;
 const CACHE_PREFIX = `divelab-3d-${encodeURIComponent(new URL(BASE_URL).pathname)}-`;
 const CACHE_NAME = `${CACHE_PREFIX}${BUILD_ID}`;
